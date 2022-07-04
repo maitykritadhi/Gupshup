@@ -20,9 +20,13 @@ Made a private chat app with web sockets (using node js and socket.io)
 * If someone sends the message, broadcast it to other people.
 * If someone leaves the chat, let others know.
 # Process to run the app
-* Run nodemon nodeserver/index.js
+* Run *nodemon nodeserver/index.js*
 * Install the extension 'live server' for Vs Code. Extension Id - ritwickdey.liveserver
 * After the extension gets installed navigate to index.html and open it to edit.
-* Right click anywhere in the file index.html and from the menu that appears select Open with Live server
+* Right click anywhere in the file *index.html* and from the menu that appears select *Open with Live server*.
 * A instance of the application will appear in the browser.
 * Copy the url from the address bar and open another instance in another tab or in incognito or on another browser.
+
+# Interface:
+![Chat_app_screen_shot](https://user-images.githubusercontent.com/54908652/177201662-2d900b18-51ff-426d-ad41-c91193b9a53e.png)
+
