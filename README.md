@@ -1,5 +1,5 @@
 # chat_application
-made a private chat app with web sockets (using node js and socket.io)
+** Made a private chat app with web sockets (using node js and socket.io)
 
 * It is an scalable Realtime Chatting Application that provides an interface for multiple user chatting at the same time.
 * FrontEnd Technologies- HTML, CSS
