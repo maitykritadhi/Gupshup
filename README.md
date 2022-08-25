@@ -1,4 +1,4 @@
-# Chat_Application
+# Gupshup
 Made a private chat app with web sockets (using node js and socket.io)
 
 * It is an scalable Realtime Chatting Application that provides an interface for multiple user chatting at the same time.
